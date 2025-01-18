@@ -1,0 +1,30 @@
+[
+  {
+    "Id": 1,
+    "Name": "OOP Using C#"
+  },
+  {
+    "Id": 2,
+    "Name": "SQL Database"
+  },
+  {
+    "Id": 3,
+    "Name": "HTML and CSS"
+  },
+  {
+    "Id": 4,
+    "Name": "Data Structure"
+  },
+  {
+    "Id": 5,
+    "Name": "java script"
+  },
+  {
+    "Id": 6,
+    "Name": "Angular JS"
+  },
+  {
+    "Id": 7,
+    "Name": "Network"
+  }
+]

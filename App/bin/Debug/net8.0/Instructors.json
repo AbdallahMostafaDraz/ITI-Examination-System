@@ -1,0 +1,74 @@
+[
+  {
+    "Id": 1,
+    "Name": "Mohammed Ahmed",
+    "UserName": "moh.ahmed",
+    "Password": "123",
+    "Subjects": [
+      {
+        "Id": 3,
+        "Name": "HTML and CSS"
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "Name": "Rami Mohammed",
+    "UserName": "rami",
+    "Password": "123",
+    "Subjects": [
+      {
+        "Id": 2,
+        "Name": "SQL Database"
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "Name": "Eman Gomaa",
+    "UserName": "eman",
+    "Password": "123",
+    "Subjects": [
+      {
+        "Id": 4,
+        "Name": "Data Structure"
+      }
+    ]
+  },
+  {
+    "Id": 4,
+    "Name": "Ayman Lotfy",
+    "UserName": "ayman",
+    "Password": "123",
+    "Subjects": [
+      {
+        "Id": 1,
+        "Name": "OOP Using C#"
+      }
+    ]
+  },
+  {
+    "Id": 5,
+    "Name": "Ahmed Ibrahim",
+    "UserName": "a.ibrahim",
+    "Password": "123456",
+    "Subjects": [
+      {
+        "Id": 5,
+        "Name": "java script"
+      }
+    ]
+  },
+  {
+    "Id": 6,
+    "Name": "Mohamed Hesham",
+    "UserName": "m.hesham",
+    "Password": "123",
+    "Subjects": [
+      {
+        "Id": 7,
+        "Name": "Network"
+      }
+    ]
+  }
+]

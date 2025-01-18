@@ -1,0 +1,116 @@
+[
+  {
+    "Id": 8,
+    "Header": 3,
+    "Body": "which of the following are value type in c# ?",
+    "Marks": 5,
+    "Answers": [
+      {
+        "Id": 1,
+        "Body": "int "
+      },
+      {
+        "Id": 2,
+        "Body": "string"
+      },
+      {
+        "Id": 3,
+        "Body": "float"
+      }
+    ],
+    "Subject": {
+      "Id": 1,
+      "Name": "OOP Using C#"
+    },
+    "CorrectAnswers": [
+      1,
+      3
+    ]
+  },
+  {
+    "Id": 9,
+    "Header": 3,
+    "Body": "which of the following are valid data type in c# ?",
+    "Marks": 5,
+    "Answers": [
+      {
+        "Id": 1,
+        "Body": "float"
+      },
+      {
+        "Id": 2,
+        "Body": "decimal"
+      },
+      {
+        "Id": 3,
+        "Body": "long"
+      }
+    ],
+    "Subject": {
+      "Id": 1,
+      "Name": "OOP Using C#"
+    },
+    "CorrectAnswers": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "Id": 10,
+    "Header": 3,
+    "Body": "Which of the following access modifer in c# ?",
+    "Marks": 5,
+    "Answers": [
+      {
+        "Id": 1,
+        "Body": "protected"
+      },
+      {
+        "Id": 2,
+        "Body": "private"
+      },
+      {
+        "Id": 3,
+        "Body": "public"
+      }
+    ],
+    "Subject": {
+      "Id": 1,
+      "Name": "OOP Using C#"
+    },
+    "CorrectAnswers": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "Id": 11,
+    "Header": 3,
+    "Body": "Choose all reference data types?",
+    "Marks": 5,
+    "Answers": [
+      {
+        "Id": 1,
+        "Body": "string"
+      },
+      {
+        "Id": 2,
+        "Body": "user defined class"
+      },
+      {
+        "Id": 3,
+        "Body": "struct"
+      }
+    ],
+    "Subject": {
+      "Id": 1,
+      "Name": "OOP Using C#"
+    },
+    "CorrectAnswers": [
+      1,
+      2
+    ]
+  }
+]

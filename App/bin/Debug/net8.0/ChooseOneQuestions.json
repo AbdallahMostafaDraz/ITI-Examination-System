@@ -1,0 +1,110 @@
+[
+  {
+    "Id": 5,
+    "Header": 2,
+    "Body": "Which of the default value of bool data type?",
+    "Marks": 5,
+    "Answers": [
+      {
+        "Id": 1,
+        "Body": "true"
+      },
+      {
+        "Id": 2,
+        "Body": "null"
+      },
+      {
+        "Id": 3,
+        "Body": "false"
+      }
+    ],
+    "Subject": {
+      "Id": 1,
+      "Name": "OOP Using C#"
+    },
+    "CorrectAnswers": [
+      3
+    ]
+  },
+  {
+    "Id": 6,
+    "Header": 2,
+    "Body": "Which Key Word is used to inherite a class in c# ?",
+    "Marks": 5,
+    "Answers": [
+      {
+        "Id": 1,
+        "Body": "extend"
+      },
+      {
+        "Id": 2,
+        "Body": "(colon) :"
+      },
+      {
+        "Id": 3,
+        "Body": "implement"
+      }
+    ],
+    "Subject": {
+      "Id": 1,
+      "Name": "OOP Using C#"
+    },
+    "CorrectAnswers": [
+      2
+    ]
+  },
+  {
+    "Id": 7,
+    "Header": 2,
+    "Body": "Choose the vaild access modifier in c#?",
+    "Marks": 5,
+    "Answers": [
+      {
+        "Id": 1,
+        "Body": "Public"
+      },
+      {
+        "Id": 2,
+        "Body": "int"
+      },
+      {
+        "Id": 3,
+        "Body": "global"
+      }
+    ],
+    "Subject": {
+      "Id": 1,
+      "Name": "OOP Using C#"
+    },
+    "CorrectAnswers": [
+      1
+    ]
+  },
+  {
+    "Id": 8,
+    "Header": 2,
+    "Body": "Choose Correct Answer Of The declartion Array in c# ?",
+    "Marks": 5,
+    "Answers": [
+      {
+        "Id": 1,
+        "Body": "int[] arr = new int[3]"
+      },
+      {
+        "Id": 2,
+        "Body": "int arr[] = new int;"
+      },
+      {
+        "Id": 3,
+        "Body": "int arr = new int[]"
+      }
+    ],
+    "Subject": {
+      "Id": 1,
+      "Name": "OOP Using C#"
+    },
+    "CorrectAnswers": [
+      1
+    ]
+  }
+]

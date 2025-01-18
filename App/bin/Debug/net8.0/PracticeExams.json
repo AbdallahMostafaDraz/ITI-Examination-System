@@ -1,0 +1,662 @@
+[
+  {
+    "Id": 1,
+    "Name": "Fundamentals of c# practice exam",
+    "Date": "2025-01-01T00:00:00",
+    "Duration": 2,
+    "Questions": [
+      {
+        "Id": 1,
+        "Header": 1,
+        "Body": "C# is case-senstive programming language?",
+        "Marks": 5,
+        "Answers": [
+          {
+            "Id": 1,
+            "Body": "True"
+          },
+          {
+            "Id": 2,
+            "Body": "False"
+          }
+        ],
+        "Subject": {
+          "Id": 1,
+          "Name": "OOP Using C#"
+        },
+        "CorrectAnswers": [
+          1
+        ]
+      },
+      {
+        "Id": 2,
+        "Header": 1,
+        "Body": "In C# int and int32 are differents data types?",
+        "Marks": 5,
+        "Answers": [
+          {
+            "Id": 1,
+            "Body": "True"
+          },
+          {
+            "Id": 2,
+            "Body": "False"
+          }
+        ],
+        "Subject": {
+          "Id": 1,
+          "Name": "OOP Using C#"
+        },
+        "CorrectAnswers": [
+          2
+        ]
+      },
+      {
+        "Id": 3,
+        "Header": 1,
+        "Body": "The Main method in c# program can have any name?",
+        "Marks": 5,
+        "Answers": [
+          {
+            "Id": 1,
+            "Body": "True"
+          },
+          {
+            "Id": 2,
+            "Body": "False"
+          }
+        ],
+        "Subject": {
+          "Id": 1,
+          "Name": "OOP Using C#"
+        },
+        "CorrectAnswers": [
+          2
+        ]
+      },
+      {
+        "Id": 4,
+        "Header": 2,
+        "Body": "Which of the default value of bool data type?",
+        "Marks": 5,
+        "Answers": [
+          {
+            "Id": 1,
+            "Body": "true"
+          },
+          {
+            "Id": 2,
+            "Body": "null"
+          },
+          {
+            "Id": 3,
+            "Body": "false"
+          }
+        ],
+        "Subject": {
+          "Id": 1,
+          "Name": "OOP Using C#"
+        },
+        "CorrectAnswers": [
+          3
+        ]
+      },
+      {
+        "Id": 5,
+        "Header": 2,
+        "Body": "Which Key Word is used to inherite a class in c# ?",
+        "Marks": 5,
+        "Answers": [
+          {
+            "Id": 1,
+            "Body": "extend"
+          },
+          {
+            "Id": 2,
+            "Body": "(colon) :"
+          },
+          {
+            "Id": 3,
+            "Body": "implement"
+          }
+        ],
+        "Subject": {
+          "Id": 1,
+          "Name": "OOP Using C#"
+        },
+        "CorrectAnswers": [
+          2
+        ]
+      },
+      {
+        "Id": 6,
+        "Header": 3,
+        "Body": "which of the following are value type in c# ?",
+        "Marks": 5,
+        "Answers": [
+          {
+            "Id": 1,
+            "Body": "int "
+          },
+          {
+            "Id": 2,
+            "Body": "string"
+          },
+          {
+            "Id": 3,
+            "Body": "float"
+          }
+        ],
+        "Subject": {
+          "Id": 1,
+          "Name": "OOP Using C#"
+        },
+        "CorrectAnswers": [
+          1,
+          3
+        ]
+      },
+      {
+        "Id": 7,
+        "Header": 3,
+        "Body": "which of the following are valid data type in c# ?",
+        "Marks": 5,
+        "Answers": [
+          {
+            "Id": 1,
+            "Body": "float"
+          },
+          {
+            "Id": 2,
+            "Body": "decimal"
+          },
+          {
+            "Id": 3,
+            "Body": "long"
+          }
+        ],
+        "Subject": {
+          "Id": 1,
+          "Name": "OOP Using C#"
+        },
+        "CorrectAnswers": [
+          1,
+          2,
+          3
+        ]
+      }
+    ],
+    "ExamType": 1,
+    "Subject": {
+      "Id": 1,
+      "Name": "OOP Using C#"
+    },
+    "Marks": 35
+  },
+  {
+    "Id": 2,
+    "Name": "OOP Junary Practice Exam",
+    "Date": "2025-01-15T00:00:00",
+    "Duration": 2,
+    "Questions": [
+      {
+        "Id": 1,
+        "Header": 1,
+        "Body": "C# is case-senstive programming language?",
+        "Marks": 5,
+        "Answers": [
+          {
+            "Id": 1,
+            "Body": "True"
+          },
+          {
+            "Id": 2,
+            "Body": "False"
+          }
+        ],
+        "Subject": {
+          "Id": 1,
+          "Name": "OOP Using C#"
+        },
+        "CorrectAnswers": [
+          1
+        ]
+      },
+      {
+        "Id": 2,
+        "Header": 1,
+        "Body": "In C# int and int32 are differents data types?",
+        "Marks": 5,
+        "Answers": [
+          {
+            "Id": 1,
+            "Body": "True"
+          },
+          {
+            "Id": 2,
+            "Body": "False"
+          }
+        ],
+        "Subject": {
+          "Id": 1,
+          "Name": "OOP Using C#"
+        },
+        "CorrectAnswers": [
+          2
+        ]
+      },
+      {
+        "Id": 3,
+        "Header": 1,
+        "Body": "The Main method in c# program can have any name?",
+        "Marks": 5,
+        "Answers": [
+          {
+            "Id": 1,
+            "Body": "True"
+          },
+          {
+            "Id": 2,
+            "Body": "False"
+          }
+        ],
+        "Subject": {
+          "Id": 1,
+          "Name": "OOP Using C#"
+        },
+        "CorrectAnswers": [
+          2
+        ]
+      },
+      {
+        "Id": 4,
+        "Header": 1,
+        "Body": "C# support OOP ?",
+        "Marks": 5,
+        "Answers": [
+          {
+            "Id": 1,
+            "Body": "True"
+          },
+          {
+            "Id": 2,
+            "Body": "False"
+          }
+        ],
+        "Subject": {
+          "Id": 1,
+          "Name": "OOP Using C#"
+        },
+        "CorrectAnswers": [
+          1
+        ]
+      },
+      {
+        "Id": 5,
+        "Header": 2,
+        "Body": "Which of the default value of bool data type?",
+        "Marks": 5,
+        "Answers": [
+          {
+            "Id": 1,
+            "Body": "true"
+          },
+          {
+            "Id": 2,
+            "Body": "null"
+          },
+          {
+            "Id": 3,
+            "Body": "false"
+          }
+        ],
+        "Subject": {
+          "Id": 1,
+          "Name": "OOP Using C#"
+        },
+        "CorrectAnswers": [
+          3
+        ]
+      },
+      {
+        "Id": 6,
+        "Header": 2,
+        "Body": "Which Key Word is used to inherite a class in c# ?",
+        "Marks": 5,
+        "Answers": [
+          {
+            "Id": 1,
+            "Body": "extend"
+          },
+          {
+            "Id": 2,
+            "Body": "(colon) :"
+          },
+          {
+            "Id": 3,
+            "Body": "implement"
+          }
+        ],
+        "Subject": {
+          "Id": 1,
+          "Name": "OOP Using C#"
+        },
+        "CorrectAnswers": [
+          2
+        ]
+      },
+      {
+        "Id": 7,
+        "Header": 2,
+        "Body": "Choose the vaild access modifier in c#?",
+        "Marks": 5,
+        "Answers": [
+          {
+            "Id": 1,
+            "Body": "Public"
+          },
+          {
+            "Id": 2,
+            "Body": "int"
+          },
+          {
+            "Id": 3,
+            "Body": "global"
+          }
+        ],
+        "Subject": {
+          "Id": 1,
+          "Name": "OOP Using C#"
+        },
+        "CorrectAnswers": [
+          1
+        ]
+      },
+      {
+        "Id": 8,
+        "Header": 3,
+        "Body": "which of the following are value type in c# ?",
+        "Marks": 5,
+        "Answers": [
+          {
+            "Id": 1,
+            "Body": "int "
+          },
+          {
+            "Id": 2,
+            "Body": "string"
+          },
+          {
+            "Id": 3,
+            "Body": "float"
+          }
+        ],
+        "Subject": {
+          "Id": 1,
+          "Name": "OOP Using C#"
+        },
+        "CorrectAnswers": [
+          1,
+          3
+        ]
+      },
+      {
+        "Id": 9,
+        "Header": 3,
+        "Body": "which of the following are valid data type in c# ?",
+        "Marks": 5,
+        "Answers": [
+          {
+            "Id": 1,
+            "Body": "float"
+          },
+          {
+            "Id": 2,
+            "Body": "decimal"
+          },
+          {
+            "Id": 3,
+            "Body": "long"
+          }
+        ],
+        "Subject": {
+          "Id": 1,
+          "Name": "OOP Using C#"
+        },
+        "CorrectAnswers": [
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "Id": 10,
+        "Header": 3,
+        "Body": "Which of the following access modifer in c# ?",
+        "Marks": 5,
+        "Answers": [
+          {
+            "Id": 1,
+            "Body": "protected"
+          },
+          {
+            "Id": 2,
+            "Body": "private"
+          },
+          {
+            "Id": 3,
+            "Body": "public"
+          }
+        ],
+        "Subject": {
+          "Id": 1,
+          "Name": "OOP Using C#"
+        },
+        "CorrectAnswers": [
+          1,
+          2,
+          3
+        ]
+      }
+    ],
+    "ExamType": 1,
+    "Subject": {
+      "Id": 1,
+      "Name": "OOP Using C#"
+    },
+    "Marks": 50
+  },
+  {
+    "Id": 3,
+    "Name": "C# Febraury Practice Exam",
+    "Date": "2025-02-05T00:00:00",
+    "Duration": 2,
+    "Questions": [
+      {
+        "Id": 1,
+        "Header": 1,
+        "Body": "C# is case-senstive programming language?",
+        "Marks": 5,
+        "Answers": [
+          {
+            "Id": 1,
+            "Body": "True"
+          },
+          {
+            "Id": 2,
+            "Body": "False"
+          }
+        ],
+        "Subject": {
+          "Id": 1,
+          "Name": "OOP Using C#"
+        },
+        "CorrectAnswers": [
+          1
+        ]
+      },
+      {
+        "Id": 2,
+        "Header": 1,
+        "Body": "In C# int and int32 are differents data types?",
+        "Marks": 5,
+        "Answers": [
+          {
+            "Id": 1,
+            "Body": "True"
+          },
+          {
+            "Id": 2,
+            "Body": "False"
+          }
+        ],
+        "Subject": {
+          "Id": 1,
+          "Name": "OOP Using C#"
+        },
+        "CorrectAnswers": [
+          2
+        ]
+      },
+      {
+        "Id": 4,
+        "Header": 1,
+        "Body": "C# support OOP ?",
+        "Marks": 5,
+        "Answers": [
+          {
+            "Id": 1,
+            "Body": "True"
+          },
+          {
+            "Id": 2,
+            "Body": "False"
+          }
+        ],
+        "Subject": {
+          "Id": 1,
+          "Name": "OOP Using C#"
+        },
+        "CorrectAnswers": [
+          1
+        ]
+      },
+      {
+        "Id": 5,
+        "Header": 2,
+        "Body": "Which of the default value of bool data type?",
+        "Marks": 5,
+        "Answers": [
+          {
+            "Id": 1,
+            "Body": "true"
+          },
+          {
+            "Id": 2,
+            "Body": "null"
+          },
+          {
+            "Id": 3,
+            "Body": "false"
+          }
+        ],
+        "Subject": {
+          "Id": 1,
+          "Name": "OOP Using C#"
+        },
+        "CorrectAnswers": [
+          3
+        ]
+      },
+      {
+        "Id": 7,
+        "Header": 2,
+        "Body": "Choose the vaild access modifier in c#?",
+        "Marks": 5,
+        "Answers": [
+          {
+            "Id": 1,
+            "Body": "Public"
+          },
+          {
+            "Id": 2,
+            "Body": "int"
+          },
+          {
+            "Id": 3,
+            "Body": "global"
+          }
+        ],
+        "Subject": {
+          "Id": 1,
+          "Name": "OOP Using C#"
+        },
+        "CorrectAnswers": [
+          1
+        ]
+      },
+      {
+        "Id": 8,
+        "Header": 3,
+        "Body": "which of the following are value type in c# ?",
+        "Marks": 5,
+        "Answers": [
+          {
+            "Id": 1,
+            "Body": "int "
+          },
+          {
+            "Id": 2,
+            "Body": "string"
+          },
+          {
+            "Id": 3,
+            "Body": "float"
+          }
+        ],
+        "Subject": {
+          "Id": 1,
+          "Name": "OOP Using C#"
+        },
+        "CorrectAnswers": [
+          1,
+          3
+        ]
+      },
+      {
+        "Id": 11,
+        "Header": 3,
+        "Body": "Choose all reference data types?",
+        "Marks": 5,
+        "Answers": [
+          {
+            "Id": 1,
+            "Body": "string"
+          },
+          {
+            "Id": 2,
+            "Body": "user defined class"
+          },
+          {
+            "Id": 3,
+            "Body": "struct"
+          }
+        ],
+        "Subject": {
+          "Id": 1,
+          "Name": "OOP Using C#"
+        },
+        "CorrectAnswers": [
+          1,
+          2
+        ]
+      }
+    ],
+    "ExamType": 1,
+    "Subject": {
+      "Id": 1,
+      "Name": "OOP Using C#"
+    },
+    "Marks": 35
+  }
+]

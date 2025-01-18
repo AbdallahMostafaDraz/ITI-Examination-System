@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ITI\\C#\\ExamintaionSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A80330D-BC3F-4513-A4F7-BE70D8D25700}|Entities\\Entities.csproj|e:\\iti\\c#\\examintaionsystem\\entities\\helpers\\examhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A80330D-BC3F-4513-A4F7-BE70D8D25700}|Entities\\Entities.csproj|solutionrelative:entities\\helpers\\examhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A80330D-BC3F-4513-A4F7-BE70D8D25700}|Entities\\Entities.csproj|e:\\iti\\c#\\examintaionsystem\\entities\\helpers\\studenthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A80330D-BC3F-4513-A4F7-BE70D8D25700}|Entities\\Entities.csproj|solutionrelative:entities\\helpers\\studenthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A80330D-BC3F-4513-A4F7-BE70D8D25700}|Entities\\Entities.csproj|e:\\iti\\c#\\examintaionsystem\\entities\\exams\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A80330D-BC3F-4513-A4F7-BE70D8D25700}|Entities\\Entities.csproj|solutionrelative:entities\\exams\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89EF563F-472F-403F-975A-CD449AD38012}|App\\App.csproj|e:\\iti\\c#\\examintaionsystem\\app\\handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89EF563F-472F-403F-975A-CD449AD38012}|App\\App.csproj|solutionrelative:app\\handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89EF563F-472F-403F-975A-CD449AD38012}|App\\App.csproj|e:\\iti\\c#\\examintaionsystem\\app\\printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89EF563F-472F-403F-975A-CD449AD38012}|App\\App.csproj|solutionrelative:app\\printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89EF563F-472F-403F-975A-CD449AD38012}|App\\App.csproj|e:\\iti\\c#\\examintaionsystem\\app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89EF563F-472F-403F-975A-CD449AD38012}|App\\App.csproj|solutionrelative:app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A80330D-BC3F-4513-A4F7-BE70D8D25700}|Entities\\Entities.csproj|e:\\iti\\c#\\examintaionsystem\\entities\\helpers\\instructorhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A80330D-BC3F-4513-A4F7-BE70D8D25700}|Entities\\Entities.csproj|solutionrelative:entities\\helpers\\instructorhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A80330D-BC3F-4513-A4F7-BE70D8D25700}|Entities\\Entities.csproj|e:\\iti\\c#\\examintaionsystem\\entities\\helpers\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A80330D-BC3F-4513-A4F7-BE70D8D25700}|Entities\\Entities.csproj|solutionrelative:entities\\helpers\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "E:\\ITI\\C#\\ExamintaionSystem\\Entities\\Exams\\Exam.cs",
+              "RelativeDocumentMoniker": "Entities\\Exams\\Exam.cs",
+              "ToolTip": "E:\\ITI\\C#\\ExamintaionSystem\\Entities\\Exams\\Exam.cs",
+              "RelativeToolTip": "Entities\\Exams\\Exam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T20:49:37.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Printer.cs",
+              "DocumentMoniker": "E:\\ITI\\C#\\ExamintaionSystem\\App\\Printer.cs",
+              "RelativeDocumentMoniker": "App\\Printer.cs",
+              "ToolTip": "E:\\ITI\\C#\\ExamintaionSystem\\App\\Printer.cs",
+              "RelativeToolTip": "App\\Printer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAACNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T20:40:28.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Handler.cs",
+              "DocumentMoniker": "E:\\ITI\\C#\\ExamintaionSystem\\App\\Handler.cs",
+              "RelativeDocumentMoniker": "App\\Handler.cs",
+              "ToolTip": "E:\\ITI\\C#\\ExamintaionSystem\\App\\Handler.cs",
+              "RelativeToolTip": "App\\Handler.cs",
+              "ViewState": "AgIAAJsBAAAAAAAAAAAAAJsBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T18:44:05.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExamHelper.cs",
+              "DocumentMoniker": "E:\\ITI\\C#\\ExamintaionSystem\\Entities\\Helpers\\ExamHelper.cs",
+              "RelativeDocumentMoniker": "Entities\\Helpers\\ExamHelper.cs",
+              "ToolTip": "E:\\ITI\\C#\\ExamintaionSystem\\Entities\\Helpers\\ExamHelper.cs",
+              "RelativeToolTip": "Entities\\Helpers\\ExamHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T18:20:15.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InstructorHelper.cs",
+              "DocumentMoniker": "E:\\ITI\\C#\\ExamintaionSystem\\Entities\\Helpers\\InstructorHelper.cs",
+              "RelativeDocumentMoniker": "Entities\\Helpers\\InstructorHelper.cs",
+              "ToolTip": "E:\\ITI\\C#\\ExamintaionSystem\\Entities\\Helpers\\InstructorHelper.cs",
+              "RelativeToolTip": "Entities\\Helpers\\InstructorHelper.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwB4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T18:03:55.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "E:\\ITI\\C#\\ExamintaionSystem\\Entities\\Helpers\\Helper.cs",
+              "RelativeDocumentMoniker": "Entities\\Helpers\\Helper.cs",
+              "ToolTip": "E:\\ITI\\C#\\ExamintaionSystem\\Entities\\Helpers\\Helper.cs",
+              "RelativeToolTip": "Entities\\Helpers\\Helper.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAuwFgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T17:46:21.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentHelper.cs",
+              "DocumentMoniker": "E:\\ITI\\C#\\ExamintaionSystem\\Entities\\Helpers\\StudentHelper.cs",
+              "RelativeDocumentMoniker": "Entities\\Helpers\\StudentHelper.cs",
+              "ToolTip": "E:\\ITI\\C#\\ExamintaionSystem\\Entities\\Helpers\\StudentHelper.cs",
+              "RelativeToolTip": "Entities\\Helpers\\StudentHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T17:45:29.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\ITI\\C#\\ExamintaionSystem\\App\\Program.cs",
+              "RelativeDocumentMoniker": "App\\Program.cs",
+              "ToolTip": "E:\\ITI\\C#\\ExamintaionSystem\\App\\Program.cs",
+              "RelativeToolTip": "App\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T18:01:24.139Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
